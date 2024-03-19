@@ -1,0 +1,56 @@
+[
+    {
+        "name":"Aditya",
+        "email":"adityarajavi05@gamil.com",
+        "phone":"8210483349",
+        "bank_name":"SBI",
+        "ifsc":"SBIN0000012",
+        "account_number":"1263327362539373",
+        "amount":5000,
+        "password":"1234"
+
+    },
+    {
+        "name":"Shail Singh",
+        "email":"rsinghsahil@gamil.com",
+        "phone":"8890323443",
+        "bank_name":"SBI",
+        "ifsc":"SBIN0000042",
+        "account_number":"1263334782539373",
+        "amount":10000,
+        "password":"4321"
+
+    },
+    {
+        "name":"Pratham Gautham",
+        "email":"prathamgautham@gamil.com",
+        "phone":"8374632919",
+        "bank_name":"SBI",
+        "ifsc":"SBIN0057312",
+        "account_number":"45663327362539563",
+        "amount":15000,
+        "password":"1000"
+
+    },
+    {
+        "name":"Dinesh",
+        "email":"dinesh@gamil.com",
+        "phone":"7739273234",
+        "bank_name":"SBI",
+        "ifsc":"SBIN0034512",
+        "account_number":"836254946204736484",
+        "amount":8000,
+        "password":"1111"
+
+    },
+    {
+        "name":"Suruchi Shrivastava",
+        "email":"suruchi123@gamil.com",
+        "phone":"8473353823",
+        "bank_name":"SBI",
+        "ifsc":"SBIN0233412",
+        "account_number":"133662527284366473",
+        "amount":50000,
+        "password":"4321"
+    }
+]
